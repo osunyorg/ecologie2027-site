@@ -2,6 +2,11 @@
 
 baseURL: https://site.ecologie2027.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 7c3a9457-35aa-4df6-b173-9a7047b001b1
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
